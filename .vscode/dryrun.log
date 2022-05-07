@@ -1,0 +1,7 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/Programming/CPP/Kuliah/kotak'
+make: Leaving directory 'd:/Programming/CPP/Kuliah/kotak'
+ 
+make: *** No rule to make target 'src/main.o', needed by 'PersegiPanjang'.
+make: *** No rule to make target 'src/rectangle.o', needed by 'PersegiPanjang'.
+
